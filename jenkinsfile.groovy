@@ -1,3 +1,6 @@
 node{
   stage("build")
+  {
+    
+  }
 }
